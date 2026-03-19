@@ -8,7 +8,7 @@
 
 The Naming Nook is an AI-powered pet naming application built with React and Google Gemini. It features a guided wizard and an interactive chat to help you discover the perfect, personalized name for your new companion based on their species, personality, and your favorite naming themes.
 
-[View this app in AI Studio](https://ai.studio/apps/3f785ab5-1c34-41d6-834f-7671a093c212)
+[View this app in AI Studio](https://ai.studio/apps/3f785ab5-1c34-41d6-834f-7671a093c212) | [Live Demo](https://the-naming-nook.onrender.com/)
 
 ## ✨ Features
 
